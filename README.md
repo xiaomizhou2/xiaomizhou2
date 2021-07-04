@@ -1,5 +1,5 @@
 ## 小米粥
-### 👋 Hi,I'm xiaomizhou,a progress slowly developer from China.
+### 👋 Hi,I'm xiaomizhou,a developer from China.
 
 <!--
 **xiaomizhou95/xiaomizhou95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
