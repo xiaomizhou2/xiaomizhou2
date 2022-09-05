@@ -1,6 +1,8 @@
 ## 小米粥
 ### 👋 Hi,I'm xiaomizhou,a developer from China.
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 <!--
 **xiaomizhou95/xiaomizhou95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
