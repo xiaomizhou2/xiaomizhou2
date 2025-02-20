@@ -1,7 +1,7 @@
 - 👋 Hi,I'm @zhangyaxi.
 - using `Java` language,develop web application.
 - I am currently learning about distributed systems and microservices architecture, and I have relevant experience in building them.
-- How to reach me -- send email to 521jx123@gmail.com or yaxi.zhang.123@foxmail.com.
+- How to reach me -- send email to yaxi.zhang950408@outlook.com.
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
